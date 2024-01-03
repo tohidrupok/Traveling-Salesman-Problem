@@ -1,3 +1,5 @@
+#pip install geopy
+
 from geopy.distance import great_circle
 Data_of_Bank_locations = [
     {"id": 1, "lati": 23.8728568, "long": 90.3984184, "address": "Uttara Branch"},
@@ -73,6 +75,7 @@ with open("Min_Cost_road.txt", "w") as file:
 
 #This code run within 30 seconds.
 #Solve this problem by the core concept of DFS. I have aslo option {{Branch and Bound },{Dynamic Problem}}
+#Please Install the Python library.
 #Tohidul Islam Rupok
 #BSc In CSE, DIU.
         
