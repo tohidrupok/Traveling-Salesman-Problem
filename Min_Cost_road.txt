@@ -1,0 +1,20 @@
+-----TO-----
+Uttara Branch (ID: 1)
+-----TO-----
+City Bank Narayanganj (ID: 8)
+-----TO-----
+City Bank Nikunja (ID: 3)
+-----TO-----
+City Bank Le Meridien (ID: 6)
+-----TO-----
+City Bank JFP (ID: 10)
+-----TO-----
+City Bank Mirpur 12 (ID: 5)
+-----TO-----
+City Bank Pallabi (ID: 9)
+-----TO-----
+City Bank Airport (ID: 2)
+-----TO-----
+City Bank Shaheed Sarani (ID: 7)
+-----TO-----
+City Bank Beside Uttara Diagnostic (ID: 4)
