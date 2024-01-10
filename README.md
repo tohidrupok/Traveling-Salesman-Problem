@@ -10,12 +10,16 @@ You have heard about ‘The City Bank’. Here’s a link of branches of City Ba
 Link: https://www.thecitybank.com/locate-atm-branch  Here’re 10 City Bank locations with Lat Lon. You can check on the map if these are correct. 
 
 ..............................................................................................................................................................................
+Formate of Data
 
 
-1(ID)
-23.8728568(Latitude)
-90.3984184(Longitude)
-Uttara Branch(Address)
+(ID)(Latitude)(Longitude)(Address)
+
+
+1
+23.8728568
+90.3984184
+Uttara Branch
 2
 23.8513998
 90.3944536
