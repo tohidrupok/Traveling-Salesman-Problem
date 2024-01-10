@@ -1,9 +1,15 @@
 How To Run
+
 Run the following command
+
 pip install geopy
 
+
 You have heard about ‘The City Bank’. Here’s a link of branches of City Bank in Bangladesh. 
+
 Link: https://www.thecitybank.com/locate-atm-branch  Here’re 10 City Bank locations with Lat Lon. You can check on the map if these are correct. 
+..............................................................................................
+
 
 1(ID)
 23.8728568(Latitude)
@@ -46,13 +52,21 @@ City Bank Pallabi
 90.4147498
 City Bank JFP
 
+.............................................................................................
+
 
 
 What to do this project solve? Think about TSP(Traveling SalesmanProblem).
+
 Imagine you want to drop some gifts at these all ten city bank branches starting from City Bank Uttara Branch. 
+
 You are driving a bike on Dhaka roads to visit all those locations. 
+
 Traffic is a concern. Also, distances are not given. You can assign your own distance. 
+
 You want to use the best route, so that you spend a minimum amount of fuel. 
+
 Write a program in Python, that creates the best optimized traffic route for traveling all those locations. 
+
 
 
